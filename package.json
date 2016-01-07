@@ -1,6 +1,6 @@
 {
   "name": "sails-hook-nested-services",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a sails hook for including nested services in the services container",
   "main": "index.js",
   "scripts": {
